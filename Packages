@@ -38,7 +38,7 @@ Name: BackgrounderAction for CCSupport
 Package: cercube5pp
 Version: 1.0.0.2
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
+Maintainer: 一彩黄 <690836844@qq.com>
 Installed-Size: 69
 Depends: mobilesubstrate, firmware (>= 10.0), cercube | me.alfhaily.cercube
 Conflicts: net.hollr2099.cercube4pp
@@ -50,7 +50,7 @@ SHA256: f1106ba912609b02ec9f04d6f239a9b0ff53d3fc630773483a2c932c35984e9a
 Section: Tweaks
 Homepage: https://sileo-cydia.github.io/depiction/web/cercube5pp.html
 Description: 去掉 Cercube 5 for YouTube.广告
-Author: SarahH12099 <409774743@qq.com>
+Author: SarahH12099 <690836844@qq.com>
 Depiction: https://sileo-cydia.github.io/depiction/web/cercube5pp.html
 Icon: https://sileo-cydia.github.io/assets/cercube5pp/icon.png
 Moderndepiction: https://sileo-cydia.github.io/depiction/native/cercube5pp.json
@@ -85,9 +85,9 @@ MD5sum: 64f855090a85e6a7c790814366bc3ce5
 SHA1: 891084a5b9a8ba76f692d8e2ea4202bf0fcdffad
 SHA256: 35d89aee75a25e95b992263a4dab0befccc2b6519a9c1971a3b4627090b2220e
 Section: 依赖
-Homepage: https://sileo-cydia.github.io
+Homepage: https://hyczby520.github.io/hyc
 Description: 只有Iarrays产品才应使用。这是关闭的图书馆，没有支持这一包装。
-Author: IArrays  <409774743@qq.com>
+Author: IArrays  <690836844@qq.com>
 Depiction: https://yttxcs.cn/depiction/html/libiarrays.html
 Icon: https://yttxcs.cn/assets/libiarrays/icon.png
 Moderndepiction: https://yttxcs.cn/depiction/sileo/libiarrays.json
@@ -928,54 +928,10 @@ Dev: ashikase
 Name: libpackageinfo
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: jp.ashikase.techsupport
-Version: 1.5.0.1-1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 456
-Pre-Depends: firmware (>=3.0)
-Depends: jp.ashikase.libpackageinfo
-Filename: ./debs/jp.ashikase.techsupport_1.5.0.1-1_iphoneos-arm.deb
-Size: 114992
-MD5sum: 70794fdd2f450d3f1f42f91edb399ea8
-SHA1: a9d60d81d5ea3d9132cdcb20e50cb8620dd32ffb
-SHA256: f24f4c319d717e9a611a2c58eb79d0ff1a760c54eff286cc5abbf67bb51d6634
-Section: Development
-Homepage: http://github.com/ashikase/TechSupport
-Description: Framework to assist in providing feedback to developers.
-Tag: role::developer
-Author: Lance Fetters (ashikase) <support@ashikase.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=techsupportData
-Dev: ashikase
-Name: TechSupport Framework
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: jp.ashikase.techsupport
-Version: 1.5.0.1-2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Pre-Depends: firmware (>=3.0)
-Depends: cokepokes.jp.ashikase.libpackageinfo
-Conflicts: cokepokes.jp.ashikase.techsupport
-Filename: ./debs/jp.ashikase.techsupport_1.5.0.1-2_iphoneos-arm.deb
-Size: 78108
-MD5sum: bb6ecf82e9f6b7d472f4aee4cfcd3345
-SHA1: 99c881f68931835cd5a992c7a7957109d83ad64c
-SHA256: 50a88b79bd88afe7c3abc3cefd75502a159ee9a303a0d80819b2c0867cb80401
-Section: Development
-Homepage: http://github.com/ashikase/TechSupport
-Description: Framework to assist in providing feedback to developers.
-Tag: role::developer
-Author: Lance Fetters (ashikase) <support@ashikase.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=techsupportData
-Dev: ashikase
-Name: TechSupport Framework (cokepokes)
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: libbulletin
 Version: 0.1-145
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
+Maintainer: 一彩黄
 Depends: mobilesubstrate
 Filename: ./debs/libbulletin_0.1-145_iphoneos-arm.deb
 Size: 24352
@@ -993,7 +949,7 @@ Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
 Package: libcolorpickerarm64
 Version: 1.6.2-1
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
+Maintainer: 一彩黄
 Depends: firmware (>= 11.0)
 Conflicts: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker, com.hackyouriphone.libcolorpicker
 Replaces: org.thebigboss.libcolorpicker
@@ -1014,7 +970,7 @@ Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
 Package: libiarrays
 Version: 1.0.9-beta-11
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
+Maintainer: 一彩黄 <690836844@qq.com>
 Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
 Filename: ./debs/libiarrays1.0.9-beta-11.deb
 Size: 288400
@@ -1024,7 +980,7 @@ SHA256: dbc10355e2a357e9b6be85ed6fad8530b0190aa319d44390b7dfab784b8b5ded
 Section: Development
 Homepage: https://sileo-cydia.github.io/depiction/web/libiarrays.html
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
-Author: IArrays  <409774743@qq.com>
+Author: IArrays  <690836844@qq.com>
 Depiction: https://sileo-cydia.github.io/depiction/web/libiarrays.html
 Icon: https://sileo-cydia.github.io/assets/libiarrays/icon.png
 Moderndepiction: https://sileo-cydia.github.io/depiction/native/libiarrays.json
@@ -1034,7 +990,7 @@ Sileodepiction: https://sileo-cydia.github.io/depiction/native/libiarrays.json
 Package: limneosos
 Version: 1.1.2
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
+Maintainer: 一彩黄
 Depends: mobilesubstrate
 Conflicts: ru.rejail.limneosos
 Filename: ./debs/limneosos_1.1.2_iphoneos-arm.deb
@@ -1241,7 +1197,7 @@ Sileodepiction: http://rejail.ru/sileo/depiction.php?file=utils
 Package: uasharedtools
 Version: 2.2r-71
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
+Maintainer: 一彩黄
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.repo.xarold.com.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
 Filename: ./debs/uasharedtools_2.2r-71_iphoneos-arm.deb
@@ -1260,7 +1216,7 @@ Sileodepiction: https://sileo-cydia.github.io/ms/msxq/uasharedtools.json
 Package: ws.hbang.common
 Version: 1.12
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
+Maintainer: 一彩黄
 Installed-Size: 830
 Depends: preferenceloader, mobilesubstrate, jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
 Filename: ./debs/ws.hbang.common_1.12_iphoneos-arm.deb
@@ -1276,7 +1232,7 @@ Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
 Name: Cephei
 Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
-Sponsor: 他是个疯子
+Sponsor: 一彩黄
 
 Package: ws.hbang.common
 Version: 1.13.1-2
